@@ -1,0 +1,13 @@
+\contentsline {section}{\numberline {1}Overview}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Running instructions}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Theoretical aspects}{2}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}Data representation}{2}{subsubsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2}Algorithm}{2}{subsubsection.1.2.2}
+\contentsline {subsection}{\numberline {1.3}Existing Example}{2}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Your own small Example}{2}{subsection.1.4}
+\contentsline {subsection}{\numberline {1.5}Other issues}{2}{subsection.1.5}
+\contentsline {section}{\numberline {2}Proposed problem}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Specification}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Implementation}{3}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Documentation of your solution}{3}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Presentation of your solution}{3}{subsubsection.2.3.1}
